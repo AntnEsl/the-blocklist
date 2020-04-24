@@ -7,3 +7,5 @@ app-measurement.com
 graph.instagram.com
 graph.facebook.com
 alb.reddit.com
+googleads.g.doubleclick.net
+api.eu.xiaoyi.com

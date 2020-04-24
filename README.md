@@ -1,2 +1,2 @@
-# the-blocking-list
-# the-blocklist
+# the-blocklist (fr)
+## Personnal pi-hole list of shitty domains

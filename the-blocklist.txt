@@ -1,0 +1,7 @@
+# Basic list to disable shitty domains
+# License:  ¯\_(ツ)_/¯
+# Contact: Don't contact me please, I do not like you
+
+adservice.google.fr
+app-measurement.com
+graph.instagram.com

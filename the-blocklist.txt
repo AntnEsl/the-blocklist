@@ -10,3 +10,4 @@ alb.reddit.com
 googleads.g.doubleclick.net
 api.eu.xiaoyi.com
 ichnaea.netflix.com
+diagnostics.meethue.com

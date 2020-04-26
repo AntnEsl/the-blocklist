@@ -11,3 +11,4 @@ googleads.g.doubleclick.net
 api.eu.xiaoyi.com
 ichnaea.netflix.com
 diagnostics.meethue.com
+googleadservices.com

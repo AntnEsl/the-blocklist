@@ -12,3 +12,13 @@ api.eu.xiaoyi.com
 ichnaea.netflix.com
 diagnostics.meethue.com
 googleadservices.com
+lgad.cjpowercast.com.edgesuite.net
+ngfts.lge.com
+us.ad.lgsmartad.com
+us.info.lgsmartad.com
+fr.lgtvdsp.com
+lgtv.lge.com
+fr.ad.lgsmartad.com
+fr.rdx2.lgtvdsp.com
+fr.info.lgsmartad.com
+fr.ibs.lgappstv.com

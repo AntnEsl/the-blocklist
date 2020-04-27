@@ -22,3 +22,15 @@ fr.ad.lgsmartad.com
 fr.rdx2.lgtvdsp.com
 fr.info.lgsmartad.com
 fr.ibs.lgappstv.com
+ncc.avast.com
+auth.ff.avast.com
+ipm-provider.ff.avast.com
+ip-info.ff.avast.com
+analytics.ff.avast.com
+v7event.stats.avast.com
+v7.stats.avast.com
+ping.avast.com
+securebrowser.avast.tools.avcdn.net
+ccleaner.tools.avcdn.net
+gm.tools.avast.com
+au.avastbrowser.com

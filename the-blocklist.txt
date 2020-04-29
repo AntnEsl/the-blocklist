@@ -34,3 +34,5 @@ securebrowser.avast.tools.avcdn.net
 ccleaner.tools.avcdn.net
 gm.tools.avast.com
 au.avastbrowser.com
+adclick.g.doubleclick.net
+tpc.googlesyndication.com

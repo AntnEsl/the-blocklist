@@ -37,3 +37,5 @@ au.avastbrowser.com
 adclick.g.doubleclick.net
 tpc.googlesyndication.com
 mesu.apple.com
+pubsub-api.razersynapse.com
+pubsub.razersynapse.com

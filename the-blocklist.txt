@@ -39,3 +39,5 @@ tpc.googlesyndication.com
 mesu.apple.com
 pubsub-api.razersynapse.com
 pubsub.razersynapse.com
+ads.mopub.com
+vortex.data.microsoft.com

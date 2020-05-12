@@ -1,0 +1,9 @@
+# Basic list to enable working with shitty ads
+# License:  ¯\_(ツ)_/¯
+# Contact: Don't contact me please, I do not like you
+
+graph.facebook.com
+graph.instagram.com
+analytics.google.com
+ads.google.com
+business.facebook.com
